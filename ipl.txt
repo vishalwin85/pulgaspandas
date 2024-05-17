@@ -1,0 +1,3 @@
+sno	name	 point
+1       punjab    10
+2       mumbai	   30
